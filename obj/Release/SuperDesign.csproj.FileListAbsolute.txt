@@ -1,0 +1,47 @@
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\ControlzEx.dll
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\MahApps.Metro.dll
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\System.Windows.Interactivity.dll
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\ControlzEx.pdb
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\MahApps.Metro.pdb
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\MahApps.Metro.xml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\SuperDesign.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\MainWindow.g.cs
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\Settings_Window.g.cs
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\App.g.cs
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\App.baml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\MainWindow.baml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\Settings_Window.baml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\SuperDesign.Properties.Resources.resources
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\SuperDesign.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\SuperDesign.csproj.CopyComplete
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\cssLauncher.exe.config
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\cssLauncher.exe
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Release\cssLauncher.pdb
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\cssLauncher_MarkupCompile.cache
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\cssLauncher_MarkupCompile.lref
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\cssLauncher.g.resources
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\cssLauncher.exe
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Release\cssLauncher.pdb
+D:\c#-projects\SuperDesign\bin\Release\cssLauncher.exe.config
+D:\c#-projects\SuperDesign\bin\Release\cssLauncher.exe
+D:\c#-projects\SuperDesign\bin\Release\cssLauncher.pdb
+D:\c#-projects\SuperDesign\bin\Release\ControlzEx.dll
+D:\c#-projects\SuperDesign\bin\Release\MahApps.Metro.dll
+D:\c#-projects\SuperDesign\bin\Release\System.Windows.Interactivity.dll
+D:\c#-projects\SuperDesign\bin\Release\ControlzEx.pdb
+D:\c#-projects\SuperDesign\bin\Release\MahApps.Metro.pdb
+D:\c#-projects\SuperDesign\bin\Release\MahApps.Metro.xml
+D:\c#-projects\SuperDesign\obj\Release\MainWindow.g.cs
+D:\c#-projects\SuperDesign\obj\Release\Settings_Window.g.cs
+D:\c#-projects\SuperDesign\obj\Release\App.g.cs
+D:\c#-projects\SuperDesign\obj\Release\cssLauncher_MarkupCompile.cache
+D:\c#-projects\SuperDesign\obj\Release\cssLauncher_MarkupCompile.lref
+D:\c#-projects\SuperDesign\obj\Release\App.baml
+D:\c#-projects\SuperDesign\obj\Release\MainWindow.baml
+D:\c#-projects\SuperDesign\obj\Release\Settings_Window.baml
+D:\c#-projects\SuperDesign\obj\Release\cssLauncher.g.resources
+D:\c#-projects\SuperDesign\obj\Release\SuperDesign.Properties.Resources.resources
+D:\c#-projects\SuperDesign\obj\Release\SuperDesign.csproj.GenerateResource.cache
+D:\c#-projects\SuperDesign\obj\Release\SuperDesign.csproj.CopyComplete
+D:\c#-projects\SuperDesign\obj\Release\cssLauncher.exe
+D:\c#-projects\SuperDesign\obj\Release\cssLauncher.pdb

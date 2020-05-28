@@ -1,0 +1,48 @@
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\ControlzEx.dll
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\MahApps.Metro.dll
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\ControlzEx.pdb
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\MahApps.Metro.pdb
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\MahApps.Metro.xml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\SuperDesign.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\MainWindow.g.cs
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\App.g.cs
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\MainWindow.baml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\SuperDesign.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\SuperDesign.csproj.CopyComplete
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\App.baml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\Settings_Window.g.cs
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\Settings_Window.baml
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\SuperDesign.Properties.Resources.resources
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\cssLauncher.exe.config
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\cssLauncher.exe
+C:\Users\PC\Desktop\c# project\SuperDesign\bin\Debug\cssLauncher.pdb
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\cssLauncher_MarkupCompile.cache
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\cssLauncher_MarkupCompile.lref
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\cssLauncher.g.resources
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\cssLauncher.exe
+C:\Users\PC\Desktop\c# project\SuperDesign\obj\Debug\cssLauncher.pdb
+D:\c#-projects\SuperDesign\bin\Debug\cssLauncher.exe.config
+D:\c#-projects\SuperDesign\bin\Debug\cssLauncher.exe
+D:\c#-projects\SuperDesign\bin\Debug\cssLauncher.pdb
+D:\c#-projects\SuperDesign\bin\Debug\ControlzEx.dll
+D:\c#-projects\SuperDesign\bin\Debug\MahApps.Metro.dll
+D:\c#-projects\SuperDesign\bin\Debug\System.Windows.Interactivity.dll
+D:\c#-projects\SuperDesign\bin\Debug\ControlzEx.pdb
+D:\c#-projects\SuperDesign\bin\Debug\MahApps.Metro.pdb
+D:\c#-projects\SuperDesign\bin\Debug\MahApps.Metro.xml
+D:\c#-projects\SuperDesign\obj\Debug\SuperDesign.csprojAssemblyReference.cache
+D:\c#-projects\SuperDesign\obj\Debug\MainWindow.g.cs
+D:\c#-projects\SuperDesign\obj\Debug\Settings_Window.g.cs
+D:\c#-projects\SuperDesign\obj\Debug\App.g.cs
+D:\c#-projects\SuperDesign\obj\Debug\cssLauncher_MarkupCompile.cache
+D:\c#-projects\SuperDesign\obj\Debug\cssLauncher_MarkupCompile.lref
+D:\c#-projects\SuperDesign\obj\Debug\App.baml
+D:\c#-projects\SuperDesign\obj\Debug\MainWindow.baml
+D:\c#-projects\SuperDesign\obj\Debug\Settings_Window.baml
+D:\c#-projects\SuperDesign\obj\Debug\cssLauncher.g.resources
+D:\c#-projects\SuperDesign\obj\Debug\SuperDesign.Properties.Resources.resources
+D:\c#-projects\SuperDesign\obj\Debug\SuperDesign.csproj.GenerateResource.cache
+D:\c#-projects\SuperDesign\obj\Debug\SuperDesign.csproj.CopyComplete
+D:\c#-projects\SuperDesign\obj\Debug\cssLauncher.exe
+D:\c#-projects\SuperDesign\obj\Debug\cssLauncher.pdb
